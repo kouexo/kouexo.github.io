@@ -3,6 +3,3 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: [Kou's liblary]
 description: [Various codes]
-## 私の好きな漫画を紹介します。
-1\. キングダム
-2\. ワンパンマン
