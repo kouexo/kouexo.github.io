@@ -1,7 +1,7 @@
 # kouexo.github.io
 ## 自己紹介
 ![](/assets/images/chameleon.png)
-<details><summary>サンプルコード</summary>
+<details><summary>自己紹介</summary>
 
 <p> 名前 <br>  
 Kou
