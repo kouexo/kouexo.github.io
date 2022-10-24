@@ -1,6 +1,4 @@
 # kouexo.github.io
-## 私の好きな漫画を紹介します。
+## 自己紹介
 ![](/assets/images/chameleon.png)
-[1.キングダム](https://youngjump.jp/kingdom/ "キングダム")<br>
-![](/kouexo.github.io/docs/assets/images/R.png)
-2\. ワンパンマン
+主な使用言語
