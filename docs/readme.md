@@ -10,4 +10,9 @@ Python
 <p>使ったことがあるプログラミング言語 <br>
 C PHP HTML/CSS 
 
+:::note warn
+注意
+ほぼ忘れました
+:::
+
 </details>
