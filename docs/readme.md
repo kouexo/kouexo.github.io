@@ -1,6 +1,9 @@
 # kouexo.github.io
 ## 自己紹介
 ![](/assets/images/chameleon.png)
-主な使用言語
+<p>**名前**
+Kou
+<p>**主な使用言語**<br>
 Python
-使ったことがあるプログラミング言語
+<p>**使ったことがあるプログラミング言語**<br>
+C HTML CSS 
