@@ -10,4 +10,4 @@ Python
 <p>使ったことがあるプログラミング言語 <br>
 C,c++,PHP, (HTML/CSS) *ほぼ忘れました
 
-</details>
+<!-- </details> -->
