@@ -4,7 +4,7 @@
 ![](/assets/images/chameleon.png)
 <details><summary>自己紹介</summary>
 
-* 名前  <br>  
+* 名前  
 Kou
 * 好きなもの <br>
 キングダム、ワンパンマン、サッカー、ラーメン、サウナ、読書、筋肉、漢
