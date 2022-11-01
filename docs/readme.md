@@ -19,5 +19,5 @@ C,C++,PHP, (HTML/CSS) ※ほぼ忘れました </p>
 <details><summary>　CAD　</summary>
 <p>4月作品  
 
-![](/docs/assets/images/fusion%20contest01.jpg)
+![](/assets/images/fusion%20contest01.jpg)
 
