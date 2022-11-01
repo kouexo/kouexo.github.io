@@ -14,7 +14,7 @@ Python
 C,C++,PHP, (HTML/CSS) ※ほぼ忘れました </p>
 <p> 取得資格 <br> 
  漢検２級、P検３級、知財検定３級 </p>
-
+</details>
 
 <details><summary>　CAD　</summary>
 <p>4月作品  
